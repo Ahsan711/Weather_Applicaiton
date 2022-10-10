@@ -1,0 +1,4 @@
+#Mon Oct 10 14:03:50 CEST 2022
+base.0=/Users/ahsan/flutter_workspace/Testing/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
