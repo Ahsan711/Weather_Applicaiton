@@ -7,7 +7,9 @@ The objective of this project is to learn about asynchronous programming in Dart
 
 ## What I Accomplished
 
-I uild a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). 
+I build a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). 
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 
 ## What I learned
